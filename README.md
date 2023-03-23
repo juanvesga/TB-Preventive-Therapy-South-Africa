@@ -2,15 +2,15 @@
 TB transmission model exploring target product profiles of TPT of future regimens, applied to ZAF
 
 # Background
-This MATLAB code describes the transmission of two strains (Drug resistant & drug sensitive) of M.tuberculosis at the population model. 
+This MATLAB code describes the transmission of two strains (Drug resistant & drug sensitive) of M.tuberculosis at the population level. 
 We use a compartmental deterministic model to capture the transmission and natural history of disease, 
 as well as the cascade of care (i.e., care seeking, diagonosis, treatment and cure). 
 
-Importantly this framework was used to explore in detail the importance of different attributes 
+Importantly, this framework was used to explore in detail the importance of different attributes 
 of future preventive therapy (TPT) regimens (e.g, efficacy, duration, resistance barrier etc), and the population level 
-effect of it's roll-out in high burden settings. 
+effect that results from rolling out TPT interventions in high burden settings. 
 
-Here we provide pre-loaded model fits (this repository does not containthe calibration procedures) for the case of South Africa that 
+Here we provide pre-loaded model fits (this repository does not containthe calibration procedures) for the case of South Africa. This 
 can be loaded (see steps below) to produce analysis and results. A detailed description of the model and its method can be found in:
 
 Vesga JF, Lienhardt C, Nsengiyumva P, Campbell JR, Oxlade O, den Boon S, Falzon D, Schwartzman K, 
