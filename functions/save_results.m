@@ -5,7 +5,7 @@ filename = sprintf('%s',type,'_',location,'_',runtype,'.mat');
 
 
 if (nargin<=4)
-f=  fullfile('res',filename);
+f=  fullfile('results',filename);
 else
 f = fullfile(folder,filename);
 end

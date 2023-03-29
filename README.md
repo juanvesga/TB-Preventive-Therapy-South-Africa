@@ -25,8 +25,13 @@ PLoS Med. 2022 Jun 13;19(6):e1004032. doi: 10.1371/journal.pmed.1004032. PMID: 3
 
 # Instructions
 
-The code is split in scripts and functions. The folder scripts contain different independent scripts that can be run to produce results, as follows:
+The code is split in scripts and functions. All data and preliminary result structures are here contained. 
+First, open the script called "master_script" in the folder "scripts". 
+All actions and functions will be executed from this script.
+The folder scripts contain different independent scripts that can be run to produce results, as follows:
 
-
+1) Plot model calibrations to WHO data
+2) Plot Partial Rank Correlation analysis
+3) Simulate secanrios of TPT roll-out and plot results    
 
 
